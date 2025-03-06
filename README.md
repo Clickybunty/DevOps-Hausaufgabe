@@ -29,7 +29,7 @@
 5. [RELEASE (Veröffentlichung)](#release-veröffentlichung)
 6. [DEPLOY (Bereitstellung)](#deploy-bereitstellung)
 7. [OPERATE (Betrieb)](#operate-betrieb)
-8. [MONITOR (Überwachung)](#monitor-überwachung)
+8. [MONITOR (Überwachung)]([#monitor-überwachung])
 
 
 
