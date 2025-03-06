@@ -12,7 +12,7 @@
 ## Historische Wurzeln von DevOps
 1. [Vorläufer und Einflüsse](#1-vorl%C3%A4ufer-und-einfl%C3%BCsse)
 2. [Wichtige Vordenker und Pioniere](#2-wichtige-vordenker-und-pioniere)
-3. [Schlüsselereignisse zur Verbreitung von DevOps](#3-schl%C3%BCsselerignisse-zur-verbreitung-von-devops)
+3. [Schlüsselereignisse zur Verbreitung von DevOps](#3-schlüsselerignisse-zur-verbreitung-von-devops)
 
 ## Visuelle Zeitleiste der DevOps-Meilensteine
 1. [2001 – Agile Manifesto veröffentlicht](#2001--agile-manifesto-ver%C3%B6ffentlicht)
