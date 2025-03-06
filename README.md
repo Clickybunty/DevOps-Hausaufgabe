@@ -1,4 +1,4 @@
-# DevOps-Hausaufgabe
+# DevOps Beispiel!
 
 
 **DevOps-Erfolgsgeschichte von GitHub**
@@ -108,4 +108,66 @@ Während der Umstellung gab es einige Hürden:
    *Firmen wie Adidas optimierten ihre Softwarebereitstellung.*
 5. **2020+** – DevSecOps & Platform Engineering als neue Entwicklungen  
    *Sicherheitsprüfungen wurden automatisch in den Entwicklungsprozess integriert.*
+
+---
+
+# DevOps Lifecycle
+
+![image](https://github.com/user-attachments/assets/29d2bb2e-609c-4f4d-8475-d33aefd80e72)
+
+
+## 1️⃣ PLAN (Planung) 📝
+### Beschreibung: Definieren der Anforderungen, Ziele und Roadmap für die Softwareentwicklung.
+### Beispiel: Ein Scrum-Team erstellt ein Product Backlog mit User Stories in Jira.
+### Verbindung: Liefert die Grundlage für das Coding.
+
+---
+
+## 2️⃣ CODE (Entwicklung) 💻
+### Beschreibung: Entwickler schreiben den Quellcode für die Anwendung oder ein Feature.
+### Beispiel: Ein Entwickler nutzt GitHub oder GitLab, um Code für ein neues Feature zu committen.
+### Verbindung: Der Code wird anschließend gebaut und getestet.
+
+---
+
+## 3️⃣ BUILD (Build-Prozess) 🏗
+### Beschreibung: Der Quellcode wird in ein ausführbares Programm kompiliert und mit Abhängigkeiten verbunden.
+### Beispiel: Eine CI/CD-Pipeline mit Jenkins oder GitHub Actions erstellt automatisch ein Docker-Image.
+### Verbindung: Das fertige Artefakt wird für Tests bereitgestellt.
+
+---
+
+## 4️⃣ TEST (Tests) ✅
+### Beschreibung: Automatisierte Tests prüfen die Software auf Fehler und Schwachstellen.
+### Beispiel: Unit-Tests mit Jest für JavaScript oder JUnit für Java, dazu Security-Scans mit SonarQube.
+### Verbindung: Nach erfolgreichem Test wird die Software für den Release vorbereitet.
+
+---
+
+## 5️⃣ RELEASE (Veröffentlichung) 🚀
+### Beschreibung: Die getestete Software wird für das Deployment freigegeben.
+### Beispiel: GitHub Actions oder GitLab CI/CD pusht ein neues Release-Tag in das Repository.
+### Verbindung: Der Code wird nun in Produktionsumgebungen deployed.
+
+---
+
+## 6️⃣ DEPLOY (Bereitstellung) 📦
+### Beschreibung: Der Release-Code wird in verschiedenen Umgebungen (Staging/Produktion) bereitgestellt.
+### Beispiel: Kubernetes orchestriert die Bereitstellung einer neuen Microservices-Version auf AWS oder Azure.
+### Verbindung: Nach dem Deployment beginnt die Überwachung der Anwendung.
+
+---
+
+## 7️⃣ OPERATE (Betrieb) ⚙️
+### Beschreibung: Die Anwendung wird live genutzt, verwaltet und skaliert.
+### Beispiel: Ein Cloud-Administrator nutzt Terraform oder Ansible, um Infrastrukturänderungen automatisiert durchzuführen.
+### Verbindung: Es wird sichergestellt, dass das System stabil läuft und überwacht wird.
+
+---
+
+## 8️⃣ MONITOR (Überwachung) 🔍
+### Beschreibung: Die Leistung und Sicherheit der Anwendung werden kontinuierlich überwacht.
+### Beispiel: Prometheus und Grafana tracken Fehlerraten, CPU-Auslastung und Antwortzeiten.
+### Verbindung: Falls Fehler auftreten, wird das Team benachrichtigt und startet einen neuen Planungszyklus.
+
 
