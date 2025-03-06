@@ -3,7 +3,7 @@
 # Inhaltsverzeichnis
 
 ## DevOps-Erfolgsgeschichte von GitHub
-1. [IT-Organisation vor der DevOps-Transformation](#it-organisation-vor-der-devops-transformation)
+1. [1. IT-Organisation vor der DevOps-Transformation](#it-organisation-vor-der-devops-transformation)
 2. [Transformationsschritte](#transformationsschritte)
 3. [Messbare Erfolge](#messbare-erfolge)
 4. [Herausforderungen und Bewältigungsstrategien](#herausforderungen-und-bewältigungsstrategien)
