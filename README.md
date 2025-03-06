@@ -15,11 +15,11 @@
 3. [Schlüsselereignisse zur Verbreitung von DevOps](#3-schlüsselereignisse-zur-verbreitung-von-devops)
 
 ## Visuelle Zeitleiste der DevOps-Meilensteine
-1. [2001 – Agile Manifesto veröffentlicht](#2001-agile-manifesto-veröffentlicht)
-2. [2009 – Patrick Debois organisiert erste DevOpsDays](#2009-patrick-debois-organisiert-erste-devopsdays)
-3. [2010–2015 – Netflix, Amazon & Google treiben DevOps voran](#2010–2015-netflix-amazon-google-treiben-devops-voran)
-4. [2016 – DevOps als Standard in vielen Unternehmen](#2016-devops-als-standard-in-vielen-unternehmen)
-5. [2020+ – DevSecOps & Platform Engineering als neue Entwicklungen](#2020-devsecops-platform-engineering-als-neue-entwicklungen)
+1. [2001 – Agile Manifesto veröffentlicht](#2001--agile-manifesto-veroeffentlicht)
+2. [2009 – Patrick Debois organisiert erste DevOpsDays](#2009--patrick-debois-organisiert-erste-devopsdays)
+3. [2010–2015 – Netflix, Amazon & Google treiben DevOps voran](#2010-2015--netflix-amazon-google-treiben-devops-voran)
+4. [2016 – DevOps als Standard in vielen Unternehmen](#2016--devops-als-standard-in-vielen-unternehmen)
+5. [2020+ – DevSecOps & Platform Engineering als neue Entwicklungen](#2020--devsecops-platform-engineering-als-neue-entwicklungen)
 
 ## DevOps Lifecycle
 1. [PLAN (Planung)](#1️⃣-plan-planung)
