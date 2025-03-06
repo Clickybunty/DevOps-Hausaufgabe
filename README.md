@@ -3,33 +3,33 @@
 # Inhaltsverzeichnis
 
 ## DevOps-Erfolgsgeschichte von GitHub
-1. [IT-Organisation vor der DevOps-Transformation](#1-it-organisation-vor-der-devops-transformation)
-2. [Transformationsschritte](#2-transformationsschritte)
-3. [Messbare Erfolge](#3-messbare-erfolge)
-4. [Herausforderungen und Bewältigungsstrategien](#4-herausforderungen-und-bewältigungsstrategien)
-5. [Erkenntnisse für die Praxis](#5-erkenntnisse-für-die-praxis)
+1. [IT-Organisation vor der DevOps-Transformation](#it-organisation-vor-der-devops-transformation)
+2. [Transformationsschritte](#transformationsschritte)
+3. [Messbare Erfolge](#messbare-erfolge)
+4. [Herausforderungen und Bewältigungsstrategien](#herausforderungen-und-bewältigungsstrategien)
+5. [Erkenntnisse für die Praxis](#erkenntnisse-für-die-praxis)
 
 ## Historische Wurzeln von DevOps
-1. [Vorläufer und Einflüsse](#1-vorlaufer-und-einflusse)
-2. [Wichtige Vordenker und Pioniere](#2-wichtige-vordenker-und-pioniere)
-3. [Schlüsselereignisse zur Verbreitung von DevOps](#3-schlusselereignisse-zur-verbreitung-von-devops)
+1. [Vorläufer und Einflüsse](#vorläufer-und-einflüsse)
+2. [Wichtige Vordenker und Pioniere](#wichtige-vordenker-und-pioniere)
+3. [Schlüsselereignisse zur Verbreitung von DevOps](#schlüsselereignisse-zur-verbreitung-von-devops)
 
 ## Visuelle Zeitleiste der DevOps-Meilensteine
-1. [2001 – Agile Manifesto veröffentlicht](#2001--agile-manifesto-veroffentlicht)
+1. [2001 – Agile Manifesto veröffentlicht](#2001--agile-manifesto-veröffentlicht)
 2. [2009 – Patrick Debois organisiert erste DevOpsDays](#2009--patrick-debois-organisiert-erste-devopsdays)
-3. [2010–2015 – Netflix, Amazon & Google treiben DevOps voran](#20102015--netflix-amazon--google-treiben-devops-voran)
+3. [2010–2015 – Netflix, Amazon & Google treiben DevOps voran](#2010–2015--netflix-amazon--google-treiben-devops-voran)
 4. [2016 – DevOps als Standard in vielen Unternehmen](#2016--devops-als-standard-in-vielen-unternehmen)
 5. [2020+ – DevSecOps & Platform Engineering als neue Entwicklungen](#2020--devsecops--platform-engineering-als-neue-entwicklungen)
 
 ## DevOps Lifecycle
-1. [PLAN (Planung)](#1️⃣-plan-planung)
-2. [CODE (Entwicklung)](#2️⃣-code-entwicklung)
-3. [BUILD (Build-Prozess)](#3️⃣-build-build-prozess)
-4. [TEST (Tests)](#4️⃣-test-tests)
-5. [RELEASE (Veröffentlichung)](#5️⃣-release-veroffentlichung)
-6. [DEPLOY (Bereitstellung)](#6️⃣-deploy-bereitstellung)
-7. [OPERATE (Betrieb)](#7️⃣-operate-betrieb)
-8. [MONITOR (Überwachung)](#8️⃣-monitor-uberwachung)
+1. [PLAN (Planung)](#plan-planung)
+2. [CODE (Entwicklung)](#code-entwicklung)
+3. [BUILD (Build-Prozess)](#build-build-prozess)
+4. [TEST (Tests)](#test-tests)
+5. [RELEASE (Veröffentlichung)](#release-veröffentlichung)
+6. [DEPLOY (Bereitstellung)](#deploy-bereitstellung)
+7. [OPERATE (Betrieb)](#operate-betrieb)
+8. [MONITOR (Überwachung)](#monitor-überwachung)
 
 
 **DevOps-Erfolgsgeschichte von GitHub**
